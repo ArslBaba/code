@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout-land_activity_pythonactivity.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout-land\\activity_pythonactivity.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_vision_live_preview.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_vision_live_preview.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic__976104.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic__976104.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo1.jpeg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable\\logo1.jpeg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_leg.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\leg.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\menu_camera_button_menu.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\menu\\camera_button_menu.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_spinner_style.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\spinner_style.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_qurantine.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\qurantine.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-hdpi\\ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_arm_intermediate.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\arm_intermediate.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_still_image.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_still_image.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_chestbeginner.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\chestbeginner.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_settings_white_24dp.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_vision_camerax_live_preview.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_vision_camerax_live_preview.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_line.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\line.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_abs_beginner.gif.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\abs_beginner.gif"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_advanced.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\advanced.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_create_plan.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_create_plan.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_baseline_menu_24.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_arrow_back.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_toggle_style.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\toggle_style.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_full_body.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\full_body.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\xml_preference_still_image.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\xml\\preference_still_image.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_bkg.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\bkg.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_channel_background.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_channel_background.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_chooser.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_chooser.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_full_body.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_full_body.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_logo.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\logo.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-xxhdpi\\ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_baseline_login_24.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_baseline_login_24.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_vision_cameraxsource_demo.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_vision_cameraxsource_demo.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_logo1.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\logo1.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home_screen.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_home_screen.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_squats.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\squats.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_pushups.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\pushups.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\xml_preference_live_preview_quickstart.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\xml\\preference_live_preview_quickstart.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_propic.jpeg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\propic.jpeg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic__976104_ffffff.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic__976104_ffffff.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable_list_item_background.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable\\list_item_background.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_textfield.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\textfield.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout-land_activity_vision_live_preview.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout-land\\activity_vision_live_preview.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout-land_activity_vision_cameraxsource_demo.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout-land\\activity_vision_cameraxsource_demo.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-hdpi\\ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_squats111.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\squats111.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_headerfile.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\headerfile.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_qurentine.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\qurentine.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_advanced_leg.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\advanced_leg.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_stocks.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_stocks.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_forgetpassword.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_forgetpassword.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_beginner.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\beginner.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_flip_camera_android_24.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable\\ic_baseline_flip_camera_android_24.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_discover_explore.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_discover_explore.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_chest.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\chest.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_blacklogo.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\blacklogo.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_baseline_info_24.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_settings_white_24dp.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_lowerbody.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\lowerbody.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_black_screen.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_black_screen.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable_blacklogo.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable\\blacklogo.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-xxhdpi\\ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_alarm_clock.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_alarm_clock.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_foreground.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_edit_profile.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_settings.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_mob.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable\\ic_mob.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_armbeginners.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\armbeginners.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_forward_restore.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_forward_restore.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_gradient1.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\gradient1.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_fullbody.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\fullbody.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_alarm.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_alarm.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_round_imagge.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\round_imagge.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_lock.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_lock.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_user.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_user.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout-land_activity_main.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_baseline_person_24.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_email.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_email.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_baseline_notifications_active_24.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_baseline_notifications_active_24.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_mlkit.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable\\logo_mlkit.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_settings_white_24dp.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_intermediate.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\intermediate.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_leg_intermediate.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\leg_intermediate.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main2.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_exercises_list.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\exercises_list.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_settings_style.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\settings_style.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout-land_activity_vision_camerax_live_preview.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout-land\\activity_vision_camerax_live_preview.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_lower_body.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\lower_body.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_power_off_button.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_power_off_button.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_chest_intermediate.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\chest_intermediate.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable_iswitch.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable\\iswitch.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_maintenance.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_maintenance.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_advanced_chest.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\advanced_chest.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_add_a_photo.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_add_a_photo.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_appbar.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\appbar.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_whitelogo.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\whitelogo.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\menu_sidemenu.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\menu\\sidemenu.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_level.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_level.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_list_data.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_list_data.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_img.png.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\img.png"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_arm.jpg.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\arm.jpg"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_vision_entry_choice.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\layout\\activity_vision_entry_choice.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_baseline_phone_iphone_24.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_baseline_phone_iphone_24.xml"
+    },
+    {
+        "merged": "E:\\vision-quickstart\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_settings_gear.xml.flat",
+        "source": "E:\\vision-quickstart\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_gear.xml"
+    }
+]
